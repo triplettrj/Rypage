@@ -1,0 +1,146 @@
+/* Desktop styles */
+@media (min-width: 769px) {
+  .landing-page-container {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .landing-page-header {
+    font-size: 6rem;
+    margin: 0;
+  }
+
+  .landing-page-subheader {
+    font-size: 2rem;
+    margin-top: 1rem;
+  }
+
+  .social-media-icons-container {
+    display: flex;
+  }
+
+  .social-media-icon-link {
+    margin: 0 1rem;
+  }
+
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3rem;
+    width: 80%;
+    max-width: 1200px;
+  }
+
+  .project {
+    background-color: #1a1a1a;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: 1rem;
+    width: 40%;
+    max-width: 600px;
+  }
+
+  .project-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .project-description {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .project-link {
+    font-size: 1.25rem;
+    display: block;
+    margin-top: 1rem;
+  }
+
+  .landing-page-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    border-top: 1px solid white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .footer-text {
+    font-size: 10px;
+    margin: 0;
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .landing-page-container {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .landing-page-header {
+    font-size: 3rem;
+    margin: 0;
+  }
+
+  .landing-page-subheader {
+    font-size: 1.5rem;
+  }
+
+  .social-media-icons-container {
+    margin-top: 1rem;
+  }
+
+  .social-media-icon-link {
+    margin: 0 0.5rem;
+  }
+
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 80%;
+  }
+
+  .project {
+    background-color: #1a1a1a;
+    border-radius: 5px;
+    padding: 1rem;
+    width: 90%;
+    max-width: 400px;
+  }
+
+  .project-title {
+    font-size: 1.5rem;
+  }
+
+  .project-description {
+    font-size: 1rem;
+  }
+
+  .project-link {
+    font-size: 1rem;
+  }
+
+  .landing-page-footer {
+    height: 1rem;
+  }
+
+  .footer-text {
+    font-size: 10px;
+  }
+}
