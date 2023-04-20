@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaInstagram, FaGithub } from 'react-icons/fa';
+import { FaInstagram, FaGithub, FaShareSquare } from 'react-icons/fa';
 import '../landing-page.css';
 
 
@@ -16,12 +16,19 @@ const LandingPage = () => {
         <a href="https://github.com/triplettrj" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
           <FaGithub size={100} />
         </a>
+        <a href="https://mail.google.com/mail/?view=cm&to=triplettrj@gmail.com&su=Yo Ryan you sound like a pretty cool guy, I'd like to speak to you about some interesting oppuritunities at [company name here]" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
+          <FaShareSquare size={100}/>
+        </a>
       </div>
       <div className="projects-container">
         <div className="project">
           <h2 className="project-title">Project spaghetti diagram</h2>
-          <p className="project-description">Project description: </p> <a href="https://github.com/triplettrj/programmingtest/blob/main/README.md">ReadMe</a>
-          <a href="https://programmingtest.vercel.app/Loginpage" className="project-link">Link to project</a>
+          <div className="project-description">
+            <a  href="https://github.com/triplettrj/programmingtest/blob/main/README.md">Project description README</a>
+          </div>
+          <div className="project-link">
+            <a href="https://programmingtest.vercel.app/Loginpage">Link to project</a>
+          </div>
         </div>
         {/*<div className="project">
           <h2 className="project-title">Project Title 2</h2>
