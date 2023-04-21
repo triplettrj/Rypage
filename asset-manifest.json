@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ryPage/static/css/main.b5bfde25.css",
+    "main.js": "/ryPage/static/js/main.518e878d.js",
+    "static/js/787.6f324554.chunk.js": "/ryPage/static/js/787.6f324554.chunk.js",
+    "index.html": "/ryPage/index.html",
+    "main.b5bfde25.css.map": "/ryPage/static/css/main.b5bfde25.css.map",
+    "main.518e878d.js.map": "/ryPage/static/js/main.518e878d.js.map",
+    "787.6f324554.chunk.js.map": "/ryPage/static/js/787.6f324554.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bfde25.css",
+    "static/js/main.518e878d.js"
+  ]
+}
