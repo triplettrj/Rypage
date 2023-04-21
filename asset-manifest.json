@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.ryrydev.com/static/css/main.b5bfde25.css",
-    "main.js": "/www.ryrydev.com/static/js/main.c147247a.js",
+    "main.css": "/www.ryrydev.com/static/css/main.b4e5c1e5.css",
+    "main.js": "/www.ryrydev.com/static/js/main.611ecbce.js",
     "static/js/787.6f324554.chunk.js": "/www.ryrydev.com/static/js/787.6f324554.chunk.js",
     "index.html": "/www.ryrydev.com/index.html",
-    "main.b5bfde25.css.map": "/www.ryrydev.com/static/css/main.b5bfde25.css.map",
-    "main.c147247a.js.map": "/www.ryrydev.com/static/js/main.c147247a.js.map",
+    "main.b4e5c1e5.css.map": "/www.ryrydev.com/static/css/main.b4e5c1e5.css.map",
+    "main.611ecbce.js.map": "/www.ryrydev.com/static/js/main.611ecbce.js.map",
     "787.6f324554.chunk.js.map": "/www.ryrydev.com/static/js/787.6f324554.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5bfde25.css",
-    "static/js/main.c147247a.js"
+    "static/css/main.b4e5c1e5.css",
+    "static/js/main.611ecbce.js"
   ]
 }
