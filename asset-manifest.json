@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ryPage/static/css/main.65392b67.css",
-    "main.js": "/ryPage/static/js/main.48d1006d.js",
-    "static/js/787.6f324554.chunk.js": "/ryPage/static/js/787.6f324554.chunk.js",
-    "index.html": "/ryPage/index.html",
-    "main.65392b67.css.map": "/ryPage/static/css/main.65392b67.css.map",
-    "main.48d1006d.js.map": "/ryPage/static/js/main.48d1006d.js.map",
-    "787.6f324554.chunk.js.map": "/ryPage/static/js/787.6f324554.chunk.js.map"
+    "main.css": "/static/css/main.65392b67.css",
+    "main.js": "/static/js/main.b2e816d5.js",
+    "static/js/787.6f324554.chunk.js": "/static/js/787.6f324554.chunk.js",
+    "index.html": "/index.html",
+    "main.65392b67.css.map": "/static/css/main.65392b67.css.map",
+    "main.b2e816d5.js.map": "/static/js/main.b2e816d5.js.map",
+    "787.6f324554.chunk.js.map": "/static/js/787.6f324554.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65392b67.css",
-    "static/js/main.48d1006d.js"
+    "static/js/main.b2e816d5.js"
   ]
 }
