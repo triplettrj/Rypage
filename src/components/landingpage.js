@@ -19,7 +19,7 @@ const LandingPage = () => {
         <a href="https://mail.google.com/mail/?view=cm&to=triplettrj@gmail.com&su=Yo Ryan you sound like a pretty cool guy, I'd like to speak to you about some interesting oppuritunities at [company name here]" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
           <FaShareSquare size={70}/>
         </a>
-        <a href="https://www.instagram.com/ryrytriplett" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
+        <a href="https://www.linkedin.com/in/ryan-triplett-cmrp-34795075/" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
           <FaLinkedin size={70} /> 
         </a>
       </div>
