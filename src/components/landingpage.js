@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaInstagram, FaGithub, FaShareSquare, FaLinkedin } from 'react-icons/fa';
+import {FaGithub, FaShareSquare, FaLinkedin} from 'react-icons/fa';
 import '../landing-page.css';
 
 
@@ -9,9 +9,6 @@ const LandingPage = () => {
       <h1 className="landing-page-header">Ryan Triplett</h1>
       <p className="landing-page-subheader">developer</p>
       <div className="social-media-icons-container">
-        <a href="https://www.instagram.com/ryrytriplett" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
-          <FaInstagram size={70} /> 
-        </a>
 
         <a href="https://github.com/triplettrj" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
           <FaGithub size={70} />
