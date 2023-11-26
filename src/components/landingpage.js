@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaGithub, FaShareSquare, FaLinkedin} from 'react-icons/fa';
+import {FaGithub, FaShareSquare, FaLinkedin, FaPaperPlane} from 'react-icons/fa';
 import '../landing-page.css';
 
 
@@ -14,7 +14,7 @@ const LandingPage = () => {
           <FaGithub size={70} />
         </a>
         <a href="mailto:triplettrj@gmail.com?subject=Yo Ryan you sound like a pretty cool guy, I'd like to speak to you about some interesting opportunities at [company name here]" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
-          <FaShareSquare size={70}/>
+          <FaPaperPlane size={70}/>
         </a>
         <a href="https://www.linkedin.com/in/ryan-triplett-34795075/" target="_blank" rel="noopener noreferrer" className="social-media-icon-link">
           <FaLinkedin size={70} /> 
