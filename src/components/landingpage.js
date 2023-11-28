@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaGithub, FaShareSquare, FaLinkedin, FaPaperPlane} from 'react-icons/fa';
+import {FaGithub, FaLinkedin, FaPaperPlane} from 'react-icons/fa';
 import '../landing-page.css';
 
 
